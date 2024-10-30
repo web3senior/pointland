@@ -25,5 +25,4 @@ Expand the platform's global reach and localization.
 
 
 ### Contributing
-
-Anyone can fork, modify, and redistribute.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Anyone can **fork**, **modify**, and **redistribute**.
